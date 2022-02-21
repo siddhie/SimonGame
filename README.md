@@ -1,10 +1,5 @@
 # SimonGame
 
-## Table of contents
-
-- [Links](#links)
-- [Author](#author)
-
 ### Links
 
 - Live Site URL: [ https://siddhinandaniya.github.io/SimonGame/]( https://siddhinandaniya.github.io/SimonGame/)
